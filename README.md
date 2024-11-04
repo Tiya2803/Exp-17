@@ -92,7 +92,11 @@ int main()
 }
 ```
 
-Conclusion:
+# Output:
+
+![image](https://github.com/user-attachments/assets/db91f196-3df2-439c-b973-36f3c9245e36)
+
+# Conclusion:
 
 → We learnt about singly linked lists in C++.
 
